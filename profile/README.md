@@ -18,3 +18,6 @@
 
 ## 구조도
 ![제목 없는 다이어그램-페이지-5](https://github.com/GoldenApple-Hwang/.github/assets/115888336/3e3f9203-a99b-4dbe-a107-ccadaf2357a9)
+
+## 지식그래프
+![real](https://github.com/GoldenApple-Hwang/.github/assets/115888336/c86bdb4b-df2c-4134-a880-cc6115bbf3a7)
