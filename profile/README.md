@@ -10,7 +10,7 @@
 |AI 서버 구축 및 이미지 분석|그래프 Viewer 및 웹 서버 구축|AI 이미지 분석|Android UI 설계 및 구현|
 
 ## 기술 스택
-- **개발 언어**: Java, JavaScript, Python
+- **개발 언어**: Java, JavaScript, Python, Cypher Query
 - **데이터베이스**: Neo4j
 - **개발 환경**: Linux, Android, Windows
 - **개발 도구**: Android Studio, Visual Studio Code
