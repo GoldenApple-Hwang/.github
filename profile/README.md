@@ -21,6 +21,6 @@
 ## 지식그래프
 ![real](https://github.com/GoldenApple-Hwang/.github/assets/115888336/c86bdb4b-df2c-4134-a880-cc6115bbf3a7)
 
-## pamphlet
+## Pamphlet
 ![판넬-사이클-수정2_page-0001](https://github.com/GoldenApple-Hwang/.github/assets/115888336/461621f5-2eca-43a1-ad14-1a7fc354117e)
 
