@@ -11,7 +11,7 @@
 
 ## 기술 스택
 - **개발 언어**: Java, JavaScript, Python, Cypher Query
-- **데이터베이스**: Neo4j
+- **데이터베이스**: Neo4j, SQL Lite
 - **개발 환경**: Linux, Android, Windows
 - **개발 도구**: Android Studio, Visual Studio Code
 
